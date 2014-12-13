@@ -1,4 +1,4 @@
 js-utilities
 ============
 
-JavaScript Utilitie
+JavaScript Utilities
